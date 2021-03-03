@@ -2,7 +2,7 @@ import React from "react"
 import './App.css';
 
 
-import Homepage from './Homepage'
+import Homepage from './Pages/HomePage/HomePage'
 
 function App() {
   return (
